@@ -1,0 +1,8 @@
+PUT http://localhost:3001/anecdotes/kK9Vcqm
+Content-Type: : application/json
+
+{
+  content: "New anecdote adding testing lol",
+  votes: 6,
+  id: "kK9Vcqm"
+}
